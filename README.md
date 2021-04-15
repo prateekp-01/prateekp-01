@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prateek Pandey (@prateekp-01)
+## - 👋 Hi, I’m Prateek Pandey (@prateekp-01)
 - 👀 I’m interested in Data Sceince and Analytics primarly. Apart from that mine interests lies in Finance, Programming and Quant.
 - 🌱 I’m currently Pursuing B.Tech from IIT Kanpur.
 
