@@ -1,5 +1,5 @@
-## - 👋Hello, This is Prateek Pandey.
-- 👀 I’m interested in Data Sceince and Analytics primarly. Apart from that mine interests lies in Finance, Programming and Quant.
+## - 👋Hello There, This is Prateek Pandey.
+- 👀 I’m interested in Data Sceince and Machine Learning.
 - 🌱 I’m currently Pursuing B.Tech from IIT Kanpur.
 
 <!---
