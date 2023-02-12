@@ -42,7 +42,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- ### :fire: My Stats :
-![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekp-01&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duaneking&hide=XML,Rich%20Text%20Format&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekp-01&layout=compact&show_icons=true&theme=tokyonight" /> -->
+### :fire: My Stats :
+
+![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekp-01&show_icons=true&theme=tokyonight) 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekp-01&layout=compact&show_icons=true&theme=tokyonight" />
